@@ -1,5 +1,5 @@
 # Slackbot_for_Upbit_trading
 [KU SoC Understanding Blockchain Business class]
 ### ONE MILLION crypto VC
-- COO : Hong
-- CIO : Koo
+- COO : Vincent
+- CIO : Root
