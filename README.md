@@ -25,28 +25,13 @@
 1. **Tokens and API Credentials**: The file imports tokens and API credentials from other modules (`slack_tokens` and `upbit_tokens`). These are likely configuration files that store sensitive information like API keys.
 2. **Flask Configuration**: The Flask application is set to run on `0.0.0.0` and port `5000`.
 
----
 
 To set up and run the application:
 1. Ensure you have the required tokens and credentials in the `slack_tokens.py` and `upbit_tokens.py` files.
 2. Install the necessary Python libraries (Flask, slack_sdk, slackeventsapi, pyupbit, etc.).
 3. Run `app.py` to start the Flask server.
 4. The application listens to Slack events and responds based on the commands received in Slack messages.
-
-`app.py` 파일을 다시 확인하여 누락된 부분이 있는지 점검하겠습니다.
-
-### 점검 항목:
-1. 사용된 모듈 및 라이브러리
-2. 정의된 함수 및 클래스
-3. Slack 명령어 및 이벤트 처리
-4. Upbit API와의 상호작용
-5. 애플리케이션 실행 설정
-
-먼저, 각 점검 항목에 대해 상세하게 분석하겠습니다.
-
-죄송합니다. `app.py` 파일에 포함된 코드의 일부는 파싱하는 동안 문법 오류가 발생했습니다. 따라서 코드를 직접 파싱하여 기능 및 클래스를 추출하는 대신 파일의 내용을 수동으로 다시 확인하겠습니다.
-
-기존에 분석한 내용을 기반으로 한국어 버전의 README를 작성하겠습니다.
+---
 
 ## README.md (한국어)
 
